@@ -2,7 +2,6 @@
 //
 // EX: identity(6) --> 6
 let identity = (val) => {
-  return val;
 };
 
 // Return an array of the first n elements of an array. If n is undefined,
